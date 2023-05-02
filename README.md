@@ -1,2 +1,5 @@
 # awesome-tisnik
-Every article by Pavel Tišnovský
+Every article and lecture by Pavel Tišnovský
+
+- https://mojefedora.cz/author/tisnik/
+- https://www.root.cz/autori/pavel-tisnovsky/
