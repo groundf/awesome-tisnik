@@ -1,5 +1,14 @@
 # awesome-tisnik
-Every article and lecture by Pavel Tišnovský
 
+Every article and lecture by Pavel Tišnovský!
+
+## Articles
+
+- 2023-06-15: [Statické typové kontroly zdrojových kódů Pythonu prováděné nástrojem Mypy](https://www.root.cz/clanky/staticke-typove-kontroly-zdrojovych-kodu-pythonu-provadene-nastrojem-mypy/)
+- 2003-07-01: [Grafická knihovna OpenGL (1)](https://www.root.cz/clanky/graficka-knihovna-opengl-1/)
+
+## Resources
+
+- https://www.root.cz/autori/pavel-tisnovsky/
 - https://mojefedora.cz/author/tisnik/
 - https://www.root.cz/autori/pavel-tisnovsky/
