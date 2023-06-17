@@ -11,6 +11,5 @@ Every article and lecture by Pavel Tišnovský!
 
 ## Resources
 
-- https://www.root.cz/autori/pavel-tisnovsky/
 - https://mojefedora.cz/author/tisnik/
 - https://www.root.cz/autori/pavel-tisnovsky/
