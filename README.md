@@ -13,6 +13,10 @@ Every article and lecture by Pavel Tišnovský!
 
 - [Programovací jazyky a knihovny určené pro výuku základů počítačové grafiky (3)](https://mojefedora.cz/programovaci-jazyky-a-knihovny-urcene-pro-vyuku-zakladu-pocitacove-grafiky-3/)
 
+## Videos
+
+- [Jazyk Go pro úplné začátečníky](https://www.youtube.com/watch?v=sca3Twh2tE0&ab_channel=InstallFest)
+
 ## Resources
 
 - https://mojefedora.cz/author/tisnik/
